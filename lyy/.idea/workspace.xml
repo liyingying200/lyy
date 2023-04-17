@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24473633-0230-42e1-8971-56fbcd881186" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/lyy$_.coverage" NAME="案例-继承应用 Coverage Results" MODIFIED="1651234149671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9第九周-面向对象2" />
+    <SUITE FILE_PATH="coverage/lyy$7_with.coverage" NAME="7.使用with关键字 Coverage Results" MODIFIED="1648207494702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第四周-文件操作" />
+    <SUITE FILE_PATH="coverage/lyy$8_mysql.coverage" NAME="8.连接mysql数据库 Coverage Results" MODIFIED="1650356837236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7.李莹莹 第七周-时间和数据库" />
+    <SUITE FILE_PATH="coverage/lyy$7_.coverage" NAME="7.不同类型的属性和方法 Coverage Results" MODIFIED="1651141578988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9第九周-面向对象2" />
+    <SUITE FILE_PATH="coverage/lyy$sql_tools.coverage" NAME="sql_tools Coverage Results" MODIFIED="1650357542908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7.李莹莹 第七周-时间和数据库" />
+    <SUITE FILE_PATH="coverage/lyy$3_json.coverage" NAME="3.json模块 Coverage Results" MODIFIED="1650545067854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.第八周-面向对象" />
+    <SUITE FILE_PATH="coverage/lyy$9_.coverage" NAME="9.将方法变成属性使用 Coverage Results" MODIFIED="1651229839309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9第九周-面向对象2" />
+    <SUITE FILE_PATH="coverage/lyy$11_.coverage" NAME="11.私有属性获取与修改 Coverage Results" MODIFIED="1650702042380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.第八周-面向对象" />
+    <SUITE FILE_PATH="coverage/lyy$6__for.coverage" NAME="6. for循环使用 Coverage Results" MODIFIED="1648716014432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.李莹莹第二周笔记" />
+    <SUITE FILE_PATH="coverage/lyy$3_os.coverage" NAME="3.os模块 Coverage Results" MODIFIED="1649328830036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6.李莹莹 第六周-模块使用" />
+    <SUITE FILE_PATH="coverage/lyy$2_.coverage" NAME="2.封装案例 Coverage Results" MODIFIED="1650972750014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9第九周-面向对象2" />
+    <SUITE FILE_PATH="coverage/lyy$7_while.coverage" NAME="7.while循环使用 Coverage Results" MODIFIED="1646998903059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二周" />
+    <SUITE FILE_PATH="coverage/lyy$6_csv.coverage" NAME="6.操作csv文件 Coverage Results" MODIFIED="1648207468013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第四周-文件操作" />
+    <SUITE FILE_PATH="coverage/lyy$3_.coverage" NAME="3.类多继承 Coverage Results" MODIFIED="1651047667425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9第九周-面向对象2" />
+    <SUITE FILE_PATH="coverage/lyy$3_sqlite.coverage" NAME="3.sqlite数据库 Coverage Results" MODIFIED="1649925206877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7.李莹莹 第七周-时间和数据库" />
+    <SUITE FILE_PATH="coverage/lyy$3.coverage" NAME="3变量 Coverage Results" MODIFIED="1663906428609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.第一周" />
+    <SUITE FILE_PATH="coverage/lyy$7_with__1_.coverage" NAME="7.使用with关键字 (1) Coverage Results" MODIFIED="1648273114614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/李莹莹.第四周-文件操作" />
+    <SUITE FILE_PATH="coverage/lyy$6_re.coverage" NAME="6 re模块 Coverage Results" MODIFIED="1655384158662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6.李莹莹 第六周-模块使用" />
+    <SUITE FILE_PATH="coverage/lyy$4_if.coverage" NAME="4.if判断多分支 Coverage Results" MODIFIED="1646873195972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二周" />
+    <SUITE FILE_PATH="coverage/lyy$7_re.coverage" NAME="7.re匹配函数 Coverage Results" MODIFIED="1649408141956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6.李莹莹 第六周-模块使用" />
+    <SUITE FILE_PATH="coverage/lyy$2_if.coverage" NAME="2.if判断单双分支 Coverage Results" MODIFIED="1646810608723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二周" />
+    <SUITE FILE_PATH="coverage/lyy$13_.coverage" NAME="13.列表的方法 Coverage Results" MODIFIED="1647160704508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二周" />
+    <SUITE FILE_PATH="coverage/lyy$5_.coverage" NAME="5.重写类属性和方法 Coverage Results" MODIFIED="1651209391956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9第九周-面向对象2" />
+    <SUITE FILE_PATH="coverage/lyy$test.coverage" NAME="test Coverage Results" MODIFIED="1648888204601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5.李莹莹  第五周-函数使用" />
+    <SUITE FILE_PATH="coverage/lyy$5_random.coverage" NAME="5 random模块 Coverage Results" MODIFIED="1649416928201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6.李莹莹 第六周-模块使用" />
+    <SUITE FILE_PATH="coverage/lyy$4_json.coverage" NAME="4.解析json数据 Coverage Results" MODIFIED="1650525061295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.第八周-面向对象" />
+    <SUITE FILE_PATH="coverage/lyy$9_26.coverage" NAME="9.26 Coverage Results" MODIFIED="1664154833009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
+    <SUITE FILE_PATH="coverage/lyy$4_os_path.coverage" NAME="4.os.path模块 Coverage Results" MODIFIED="1649396632879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6.李莹莹 第六周-模块使用" />
+    <SUITE FILE_PATH="coverage/lyy$.coverage" NAME="练习 Coverage Results" MODIFIED="1676960705924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第一周Python复习" />
+    <SUITE FILE_PATH="coverage/lyy$6_.coverage" NAME="6.匿名函数 Coverage Results" MODIFIED="1655384507738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5.李莹莹  第五周-函数使用" />
+    <SUITE FILE_PATH="coverage/lyy$1_.coverage" NAME="1.定义函数 Coverage Results" MODIFIED="1655384286000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5.李莹莹  第五周-函数使用" />
+    <SUITE FILE_PATH="coverage/lyy$2_datetime.coverage" NAME="2.datetime模块 Coverage Results" MODIFIED="1649895580908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7.李莹莹 第七周-时间和数据库" />
+    <SUITE FILE_PATH="coverage/lyy$1_python.coverage" NAME="1.python的模块 Coverage Results" MODIFIED="1649129368557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6.李莹莹 第六周-模块使用" />
+    <SUITE FILE_PATH="coverage/lyy$1_time.coverage" NAME="1.time模块 Coverage Results" MODIFIED="1649834921181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7.李莹莹 第七周-时间和数据库" />
+    <SUITE FILE_PATH="coverage/lyy$5_sqlite.coverage" NAME="5.sqlite数据库查询更新 Coverage Results" MODIFIED="1649926853246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7.李莹莹 第七周-时间和数据库" />
+    <SUITE FILE_PATH="coverage/lyy$8_.coverage" NAME="8.多态 Coverage Results" MODIFIED="1651212355540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9第九周-面向对象2" />
+    <SUITE FILE_PATH="coverage/lyy$10_.coverage" NAME="10.循环判断嵌套 Coverage Results" MODIFIED="1655385319519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.李莹莹第二周笔记" />
+    <SUITE FILE_PATH="coverage/lyy$11___1_.coverage" NAME="11.列表的使用 (1) Coverage Results" MODIFIED="1647311239560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/李莹莹第二周笔记" />
+    <SUITE FILE_PATH="coverage/lyy$6_update.coverage" NAME="6.封装update语句 Coverage Results" MODIFIED="1650001174632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7.李莹莹 第七周-时间和数据库" />
+    <SUITE FILE_PATH="coverage/lyy$function_tools.coverage" NAME="function_tools Coverage Results" MODIFIED="1655383546784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6.李莹莹 第六周-模块使用" />
+    <SUITE FILE_PATH="coverage/lyy$4___1_.coverage" NAME="4.文件可读可写模式 (1) Coverage Results" MODIFIED="1648286441364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/李莹莹.第四周-文件操作" />
+    <SUITE FILE_PATH="coverage/lyy$4_.coverage" NAME="4.函数返回值 Coverage Results" MODIFIED="1649295146966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5.李莹莹  第五周-函数使用" />
+    <SUITE FILE_PATH="coverage/lyy$2.coverage" NAME="第二周作业（2） Coverage Results" MODIFIED="1647418920973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业练习" />
+    <SUITE FILE_PATH="coverage/lyy$7_delete.coverage" NAME="7.封装delete语句 Coverage Results" MODIFIED="1650006031475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7.李莹莹 第七周-时间和数据库" />
+    <SUITE FILE_PATH="coverage/lyy$12_.coverage" NAME="12.析构函数 Coverage Results" MODIFIED="1650704005762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.第八周-面向对象" />
+    <SUITE FILE_PATH="coverage/lyy$3__.coverage" NAME="3.案例 登录注册 Coverage Results" MODIFIED="1647437500508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.李莹莹第三周" />
+    <SUITE FILE_PATH="coverage/lyy$2_python.coverage" NAME="2.python的包 Coverage Results" MODIFIED="1649290441602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6.李莹莹 第六周-模块使用" />
+    <SUITE FILE_PATH="coverage/lyy$9_init.coverage" NAME="9.init初始化对象 Coverage Results" MODIFIED="1650628128100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.第八周-面向对象" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="students" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="students" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="students" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3.李莹莹第三周/案例 手机销售.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2587">
+              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.李莹莹第三周/案例 登录注册.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-247">
+              <folding>
+                <element signature="e#0#565#1" />
+                <element signature="e#932#990#0" />
+                <element signature="e#1022#1671#0" />
+                <element signature="e#1706#2355#0" />
+                <element signature="e#2389#3453#0" />
+                <element signature="e#3487#4408#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Stub" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/6.李莹莹 第六周-模块使用/3.os模块.py" />
+        <option value="$PROJECT_DIR$/作业练习/第六周作业.py" />
+        <option value="$PROJECT_DIR$/6.李莹莹 第六周-模块使用/4.os.path模块.py" />
+        <option value="$PROJECT_DIR$/6.李莹莹 第六周-模块使用/6 re模块.py" />
+        <option value="$PROJECT_DIR$/6.李莹莹 第六周-模块使用/7.re匹配函数.py" />
+        <option value="$PROJECT_DIR$/6.李莹莹 第六周-模块使用/5 random模块.py" />
+        <option value="$PROJECT_DIR$/6.李莹莹 第六周-模块使用/8.正则中的括号.py" />
+        <option value="$PROJECT_DIR$/6.李莹莹 第六周-模块使用/正则.py" />
+        <option value="$PROJECT_DIR$/7.李莹莹 第七周-时间和数据库/1.time模块.py" />
+        <option value="$PROJECT_DIR$/7.李莹莹 第七周-时间和数据库/2.datetime模块.py" />
+        <option value="$PROJECT_DIR$/7.李莹莹 第七周-时间和数据库/3.sqlite数据库.py" />
+        <option value="$PROJECT_DIR$/7.李莹莹 第七周-时间和数据库/4.封装insert语句.py" />
+        <option value="$PROJECT_DIR$/7.李莹莹 第七周-时间和数据库/5.sqlite数据库查询更新.py" />
+        <option value="$PROJECT_DIR$/7.李莹莹 第七周-时间和数据库/6.封装update语句.py" />
+        <option value="$PROJECT_DIR$/7.李莹莹 第七周-时间和数据库/7.封装delete语句.py" />
+        <option value="$PROJECT_DIR$/作业练习/第七周作业.py" />
+        <option value="$PROJECT_DIR$/7.李莹莹 第七周-时间和数据库/8.连接mysql数据库.py" />
+        <option value="$PROJECT_DIR$/7.李莹莹 第七周-时间和数据库/例-实现成绩查询.py" />
+        <option value="$PROJECT_DIR$/7.李莹莹 第七周-时间和数据库/sql_tools.py" />
+        <option value="$PROJECT_DIR$/1.第一周/7.格式化输出.py" />
+        <option value="$PROJECT_DIR$/8.第八周-面向对象/1.异常处理.py" />
+        <option value="$PROJECT_DIR$/8.第八周-面向对象/2.自定义异常.py" />
+        <option value="$PROJECT_DIR$/8.第八周-面向对象/4.解析json数据.py" />
+        <option value="$PROJECT_DIR$/8.第八周-面向对象/5.类介绍.py" />
+        <option value="$PROJECT_DIR$/8.第八周-面向对象/6.定义类.py" />
+        <option value="$PROJECT_DIR$/8.第八周-面向对象/7.添加属性.py" />
+        <option value="$PROJECT_DIR$/8.第八周-面向对象/8.属性和方法.py" />
+        <option value="$PROJECT_DIR$/8.第八周-面向对象/tls.py" />
+        <option value="$PROJECT_DIR$/8.第八周-面向对象/9.init初始化对象.py" />
+        <option value="$PROJECT_DIR$/8.第八周-面向对象/10.共有和私有属性.py" />
+        <option value="$PROJECT_DIR$/8.第八周-面向对象/11.私有属性获取与修改.py" />
+        <option value="$PROJECT_DIR$/8.第八周-面向对象/12.类继承.py" />
+        <option value="$PROJECT_DIR$/8.第八周-面向对象/12.析构函数.py" />
+        <option value="$PROJECT_DIR$/9第九周-面向对象2/1.类封装.py" />
+        <option value="$PROJECT_DIR$/9第九周-面向对象2/2.封装案例.py" />
+        <option value="$PROJECT_DIR$/9第九周-面向对象2/3.类继承.py" />
+        <option value="$PROJECT_DIR$/9第九周-面向对象2/3.类多继承.py" />
+        <option value="$PROJECT_DIR$/9第九周-面向对象2/案例-计算面积和周长.py" />
+        <option value="$PROJECT_DIR$/9第九周-面向对象2/4.类多继承.py" />
+        <option value="$PROJECT_DIR$/9第九周-面向对象2/6.构造方法重写.py" />
+        <option value="$PROJECT_DIR$/9第九周-面向对象2/7.不同类型的属性和方法.py" />
+        <option value="$PROJECT_DIR$/9第九周-面向对象2/5.重写类属性和方法.py" />
+        <option value="$PROJECT_DIR$/9第九周-面向对象2/8.多态.py" />
+        <option value="$PROJECT_DIR$/9第九周-面向对象2/9.将方法变成属性使用.py" />
+        <option value="$PROJECT_DIR$/9第九周-面向对象2/10.魔法方法.py" />
+        <option value="$PROJECT_DIR$/9第九周-面向对象2/案例-继承应用.py" />
+        <option value="$PROJECT_DIR$/1.第一周/1.标识符.py" />
+        <option value="$PROJECT_DIR$/8.第八周-面向对象/3.json模块.py" />
+        <option value="$PROJECT_DIR$/爬虫/9.26.py" />
+        <option value="$PROJECT_DIR$/9.28.py" />
+        <option value="$PROJECT_DIR$/第一周Python复习/练习.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1047" />
+    <option name="y" value="20" />
+    <option name="width" value="880" />
+    <option name="height" value="850" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lyy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lyy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lyy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lyy" type="462c0819:PsiDirectoryNode" />
+              <item name="3.李莹莹第三周" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="D:/diango1" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\大威天龙\Desktop\lyy\7.李莹莹 第七周-时间和数据库" />
+      <recent name="C:\Users\大威天龙\Desktop\lyy\第一周" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\大威天龙\Desktop\lyy\6.李莹莹 第六周-模块使用\tools" />
+      <recent name="C:\Users\大威天龙\Desktop\lyy" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.练习">
+    <configuration name="练习" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lyy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第一周Python复习" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第一周Python复习/练习.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="10.循环判断嵌套" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lyy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2.李莹莹第二周笔记" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.李莹莹第二周笔记/10.循环判断嵌套.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3变量" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lyy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.第一周" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.第一周/3变量.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="6.匿名函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lyy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5.李莹莹  第五周-函数使用" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5.李莹莹  第五周-函数使用/6.匿名函数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="9.26" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lyy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫/9.26.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.练习" />
+        <item itemvalue="Python.9.26" />
+        <item itemvalue="Python.3变量" />
+        <item itemvalue="Python.10.循环判断嵌套" />
+        <item itemvalue="Python.6.匿名函数" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\大威天龙\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24473633-0230-42e1-8971-56fbcd881186" name="Default Changelist" comment="" />
+      <created>1646144651234</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646144651234</updated>
+      <workItem from="1646144654664" duration="532000" />
+      <workItem from="1646205321312" duration="6136000" />
+      <workItem from="1646266334405" duration="35468000" />
+      <workItem from="1646705848547" duration="59007000" />
+      <workItem from="1647310492807" duration="91310000" />
+      <workItem from="1648208556807" duration="19976000" />
+      <workItem from="1648520165311" duration="59679000" />
+      <workItem from="1648986454125" duration="771000" />
+      <workItem from="1649124801168" duration="93471000" />
+      <workItem from="1650023436121" duration="3198000" />
+      <workItem from="1650345048843" duration="1208000" />
+      <workItem from="1650351451715" duration="18686000" />
+      <workItem from="1650603542115" duration="31824000" />
+      <workItem from="1651043792967" duration="41117000" />
+      <workItem from="1651718009961" duration="345000" />
+      <workItem from="1651718362632" duration="529000" />
+      <workItem from="1654229302119" duration="756000" />
+      <workItem from="1655380422747" duration="5898000" />
+      <workItem from="1663906262996" duration="368000" />
+      <workItem from="1664154644790" duration="206000" />
+      <workItem from="1664369057449" duration="1008000" />
+      <workItem from="1676175602701" duration="734000" />
+      <workItem from="1676863777324" duration="23000" />
+      <workItem from="1676960581719" duration="818000" />
+      <workItem from="1677051721881" duration="1353000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="474421000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14966443" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3287858" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4986577" weight="0.43130434" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39972714" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3287483" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5013423" side_tool="true" weight="0.34106413" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32869565" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32872504" />
+      <window_info anchor="bottom" id="Database Console" order="14" weight="0.3287858" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="R Graphics" order="4" weight="0.30171427" />
+      <window_info anchor="right" id="R Packages" order="5" weight="0.32993197" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3281879" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/7.李莹莹 第七周-时间和数据库/2.datetime模块.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2340">
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.李莹莹 第七周-时间和数据库/3.sqlite数据库.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.李莹莹  第五周-函数使用/1.定义函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2179">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.李莹莹  第五周-函数使用/2.函数传参.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1440" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.李莹莹  第五周-函数使用/3.不定长参数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2160" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.李莹莹  第五周-函数使用/4.函数返回值.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.李莹莹  第五周-函数使用/5.变量作用域.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-439" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.李莹莹  第五周-函数使用/6.匿名函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.李莹莹  第五周-函数使用/7.高阶函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1980" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.李莹莹  第五周-函数使用/8.推导式，生成器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-679" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.李莹莹  第五周-函数使用/9.递归函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-270" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/作业练习/3.8 李莹莹练习作业.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/作业练习/libai.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.第一周/5.基本数据类型转换.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1429" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.第一周/6.输入与输出和转义字符.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-900" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.第一周/7.格式化输出.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.第一周/8.拼接字符串.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-540" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.第一周/第一周作业.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1260" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.李莹莹第二周笔记/1.算术，关系，逻辑运算符.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1170" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.李莹莹第二周笔记/2.if判断单双分支.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1620" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.李莹莹第二周笔记/3.赋值，成员，身份运算符.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1260" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.李莹莹第二周笔记/4.if判断多分支.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1789" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.李莹莹第二周笔记/5.判断嵌套.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1350" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.李莹莹第二周笔记/10.循环判断嵌套.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.李莹莹第二周笔记/11.列表的使用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2070" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.李莹莹第二周笔记/12.列表相关函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-990" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.李莹莹第二周笔记/13.列表的方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1489" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.李莹莹第三周/1.字符串使用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1039" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.李莹莹第三周/2.字符串的方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1350" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.李莹莹第三周/3.字符串判断.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1279" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.李莹莹第三周/4.元组使用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-390">
+          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.李莹莹第三周/5.字典的使用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1440" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.李莹莹第三周/6.字典的方法与遍历.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1170" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.李莹莹第三周/7.集合的使用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2430" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.李莹莹第二周笔记/6. for循环使用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-900" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.李莹莹第二周笔记/7.while循环使用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-420">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.李莹莹第二周笔记/8.循环关键字使用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-900" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/作业练习/第七周作业.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-439" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/作业练习/第三周作业.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5239" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/作业练习/第二周作业.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-139">
+          <caret line="60" column="11" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/作业练习/第二周作业（2）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1009" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/作业练习/第五周作业.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/作业练习/第四周作业.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3003" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/作业练习/第六周作业.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-210">
+          <caret line="75" column="17" selection-start-line="75" selection-start-column="17" selection-end-line="75" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.李莹莹第二周笔记/9.循环嵌套.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.第一周/3变量.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/9.26.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.28.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一周Python复习/练习.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.李莹莹第三周/案例 登录注册.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-247">
+          <folding>
+            <element signature="e#0#565#1" />
+            <element signature="e#932#990#0" />
+            <element signature="e#1022#1671#0" />
+            <element signature="e#1706#2355#0" />
+            <element signature="e#2389#3453#0" />
+            <element signature="e#3487#4408#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.李莹莹第三周/案例 手机销售.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2587">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

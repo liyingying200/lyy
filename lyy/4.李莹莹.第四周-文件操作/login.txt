@@ -1,0 +1,5 @@
+liyingying-123456
+lisi123-123456
+root123-liyingying
+root000-www.baidu
+open("login.txt", encoding="utf-8")
